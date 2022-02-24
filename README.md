@@ -1,6 +1,6 @@
 - 👋 Hello! Rajie here, a highly motivated experienced Computer Engineering Graduate, passionate about data analysis and visualization, 
 
-- 🌱 What I’m currently doing ...Cleaning and Exploring various free public data sets with Mysql and MS Excel  and creating interactive dashboards and visualizations with Tableau
+- 🌱 What I’m currently doing ...Cleaning and Exploring various free public data sets with SQL and MS Excel  and creating interactive dashboards and visualizations with Tableau
 
 - 👀 I’m interested in ... Data Analysis and  Data Visualization
 
