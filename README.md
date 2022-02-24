@@ -1,3 +1,7 @@
+<p align="center">
+  <img  src="https://github.com/grajie/grajie/blob/main/data1.jpeg">
+</p>
+
 - 👋 Hello! Rajie here, a highly motivated experienced Computer Engineering Graduate, passionate about data analysis and visualization, 
 
 - 🌱 **What I’m currently doing**...Data Cleaning and Data Exploration on various free public data sets with SQL and MS Excel  and creating interactive dashboards and visualizations with Tableau
