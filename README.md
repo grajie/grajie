@@ -11,7 +11,11 @@
 - 💞️ **I’m looking for**... Iam actively seeking a job opportunity as a Data Analyst  
 - 📫 **How to reach me**... https://www.linkedin.com/in/rajalakshmignanasekaran/ 
                           g.rajie@gmail.com
- 
+ ### Databases
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
+### Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 <!---
 grajie/grajie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
